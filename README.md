@@ -6,7 +6,7 @@ The only code that will be on Github in the future will be collaboration heavy r
 
 Take a look at my website for my blog or projects.
 
-[jackwaterloo.com](jackwaterloo.com)
+[jackwaterloo.com](https://jackwaterloo.com)
 
 <!--
 **jackwaterloo/jackwaterloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
