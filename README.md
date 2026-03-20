@@ -5,6 +5,7 @@ I keep most of my personal projects on my [Forgejo instance](https://git.jackwat
 The only code that will be on Github in the future will be collaboration heavy repos, and production code which will most likely be private. So give my [Forgejo instance](https://git.jackwaterloo.com/jackwaterloo) a look.
 
 Take a look at my website for my blog or projects.
+
 [jackwaterloo.com](jackwaterloo.com)
 
 <!--
