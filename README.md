@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I keep most of my personal projects on my [Forgejo instance](https://git.jackwaterloo.com/jackwaterloo).
+
+The only code that will be on Github in the future will be collaboration heavy repos, and production code which will most likely be private. So give my [Forgejo instance](https://git.jackwaterloo.com/jackwaterloo) a look.
+
+Take a look at my website for my blog or projects.
+[jackwaterloo.com](jackwaterloo.com)
+
 <!--
 **jackwaterloo/jackwaterloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
